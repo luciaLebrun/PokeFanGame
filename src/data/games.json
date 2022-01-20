@@ -1,0 +1,30 @@
+[
+    {
+        "image": "Uranium.png",
+        "alt": "Uranium",
+        "title": "Pokémon Uranium",
+        "text": "Pokémon Uranium prend place dans la région de Tandor, où le joueur devra collecter les 8 badges et ainsi accéder à la ligue. Le joueur devra également remplir son pokédex des nouveaux 190 pokémons de la région.",
+        "link": "https://www.reddit.com/r/pokemonuranium/comments/m9yvd6/download_links/"
+    },
+    {
+        "image": "Prisme.png",
+        "alt": "Prisme",
+        "title": "Pokémon Prisme",
+        "text": "Pokémon Prisme est un fangame français (jeu créé par des fans) créé le 24 mars 2012 sous PSDK. C'est un fangame qui se veut axé sur un style plus comique et détendu, même si parfois, faut être un peu sérieux. De plus, il a la particularité d'évoluer en continu : plusieurs mises à jour sont disponibles chaque année.",
+        "link": ""
+    },
+    {
+        "image": "Jade.png",
+        "alt": "Jade",
+        "title": "Pokémon Jade",
+        "text": "Il existe un pokémon légendaire extrêmement puissant vivant dans les ruines du désert 'GoldWhite'. Cependant, la seule façon de le rencontrer est d'utiliser une clé qui est quelque part dans la région d'Ario. Plusieurs énigmes sont cachées tout au long de la région afin de retrouver cette clé. Durant votre aventure, vous allez rencontrez la Team Wild, une équipe de bandit.",
+        "link": ""
+    },
+    {
+        "image": "Pokemmo.png",
+        "alt": "Pokemmo",
+        "title": "Pokemmo",
+        "text": "Une équipe de fans de l'univers Pokémon vient de publier un jeu plutôt intéressant baptisé PokéMMO. Concrètement, il s'agit de revivre le célèbre Pokémon Rouge Feu en version en ligne, permettant de défier des joueurs en ligne.",
+        "link": "https://pokemmo.eu/downloads/?local=fr"
+    }
+]

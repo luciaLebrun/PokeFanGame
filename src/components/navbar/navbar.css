@@ -1,0 +1,12 @@
+.navbar {
+    padding: 2rem 4rem;
+}
+
+.buttons {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.link {
+    text-decoration: none;
+}
